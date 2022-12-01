@@ -3,6 +3,9 @@ dependency-reduced-pom.xml
 mvnvm.properties
 AggregateViewer.html
 
+# Nix
+.direnv
+
 #OS X files
 .DS_Store
 .java-version
